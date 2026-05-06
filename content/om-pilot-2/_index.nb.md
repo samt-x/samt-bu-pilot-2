@@ -8,7 +8,3 @@ last_editor: Erik Hagen
 
 ---
 Beskrivelse av denne piloten kommer her.
-
-I mellomtiden - her er et bilde fra oppstartsmøtet 6. mai 2026:
-
-![](bilde-1778070427783.png)
