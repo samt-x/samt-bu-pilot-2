@@ -9,6 +9,4 @@ lastmod: 2026-05-06T14:15:37+02:00
 last_editor: Erik Hagen
 
 ---
-Vi er i gang:
-
-![](bilde-1778069722629.png)
+TBD
