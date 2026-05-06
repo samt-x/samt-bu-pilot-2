@@ -5,7 +5,7 @@ title: Pilot 2 - Valg av utdanningsløp
 linkTitle: Pilot 2 - Valg av utdanningsløp
 weight: 20
 status: Tidlig utkast
-lastmod: 2026-05-06T14:15:37+02:00
+lastmod: 2026-05-06T14:32:46+02:00
 last_editor: Erik Hagen
 
 ---
