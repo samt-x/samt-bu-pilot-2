@@ -7,8 +7,8 @@ lastmod: 2026-04-29T15:15:27+02:00
 last_editor: Erik Hagen
 
 ---
-TBD.
+Beskrivelse av denne piloten kommer her.
 
-## sdfdsf
+I mellomtiden - her er et bilde fra oppstartsmøtet 6. mai 2026:
 
-![](bilde-1777468493026.png)
+![](bilde-1778070427783.png)
