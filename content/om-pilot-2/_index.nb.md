@@ -7,4 +7,4 @@ lastmod: 2026-05-06T19:38:27+02:00
 last_editor: Erik Hagen
 
 ---
-Beskrivelse av denne piloten kommer her.
+Beskrivelse av denne piloten kommer her...
