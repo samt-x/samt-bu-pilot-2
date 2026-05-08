@@ -7,4 +7,4 @@ lastmod: 2026-05-07T22:14:22+02:00
 last_editor: Erik Hagen
 
 ---
-Beskrivelse av denne piloten kommer her.
+Pilot 2: Valg av utdanningsløp tar for seg arbeid og temaer rundt case 21: <https://docs.samt-bu.no/behov/use-cases/21-valg-utdanningsloep/>
