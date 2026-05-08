@@ -4,7 +4,7 @@ title: Annet
 weight: 10
 status: Ny
 # Gyldige verdier: Ny | Tidlig utkast | Pågår | Til QA | Godkjent | Avbrutt
-lastmod: 2026-05-08T15:12:16+02:00
+lastmod: 2026-05-08T15:28:41+02:00
 last_editor: Jens Laurits Nielsen
 
 ---
