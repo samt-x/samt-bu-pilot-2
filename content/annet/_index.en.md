@@ -4,6 +4,9 @@ title: Annet
 weight: 10
 status: New
 # Valid values: New | Early draft | In progress | For QA | Approved | Cancelled
+lastmod: 2026-05-08T15:12:16+02:00
+last_editor: Jens Laurits Nielsen
+
 ---
 
 *English translation TBD.*
