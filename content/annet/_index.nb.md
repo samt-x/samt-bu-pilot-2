@@ -2,7 +2,6 @@
 id: 22bf67b9-27fb-4daf-92c1-2bb8dae4ff1d
 title: Annet
 weight: 30
-status: Ny
 # Gyldige verdier: Ny | Tidlig utkast | Pågår | Til QA | Godkjent | Avbrutt
 lastmod: 2026-05-10T10:38:39+02:00
 last_editor: Jens Laurits Nielsen
@@ -20,6 +19,4 @@ Her (<https://docs.samt-bu.no/behov/use-cases/21-valg-utdanningsloep/>) beskrive
 
 Her fra deltagerne på oppstartsmøtet!
 
-![](bilde-1778246450819.png)
-
-Fra høyre øverst: Jens Laurits Nielsen (Novari), Torbjørn Moen (KS Digital), Wenche Fylken (Digdir), Kjersti Stenerud Steien (Digdir), Harald Groven (Hkdir), Martin Zeiffert (Novari), Natalia Kovalenko-Gundersen (Novari), Erik Hagen (Digdir), Cat (Cahtrine) Holten (Digdir), Ellen Marite Fagerli (Hkdir) og Anders Alstad (Novari).
+![](bilde-1778246450819.png)Fra høyre øverst: Jens Laurits Nielsen (Novari), Torbjørn Moen (KS Digital), Wenche Fylken (Digdir), Kjersti Stenerud Steien (Digdir), Harald Groven (Hkdir), Martin Zeiffert (Novari), Natalia Kovalenko-Gundersen (Novari), Erik Hagen (Digdir), Cat (Cahtrine) Holten (Digdir), Ellen Marite Fagerli (Hkdir) og Anders Alstad (Novari).
