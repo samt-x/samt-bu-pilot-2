@@ -6,6 +6,7 @@ weight: 30
 lastmod: 2026-05-10T10:41:47+02:00
 last_editor: Jens Laurits Nielsen
 
+status: Godkjent
 ---
 ## Oppstartsmøte for Pilot 2: Valg av utdanningsløp!
 
@@ -19,4 +20,4 @@ Her (<https://docs.samt-bu.no/behov/use-cases/21-valg-utdanningsloep/>) beskrive
 
 Her fra deltagerne på oppstartsmøtet!
 
-![](bilde-1778246450819.png)Fra høyre øverst: Jens Laurits Nielsen (Novari), Torbjørn Moen (KS Digital), Wenche Fylken (Digdir), Kjersti Stenerud Steien (Digdir), Harald Groven (Hkdir), Martin Zeiffert (Novari), Natalia Kovalenko-Gundersen (Novari), Erik Hagen (Digdir), Cat (Cahtrine) Holten (Digdir), Ellen Marite Fagerli (Hkdir) og Anders Alstad (Novari).
+![](bilde-1778246450819.png)Fra høyre øverst: Jens Laurits Nielsen (Novari), Torbjørn Moen (KS Digital), Wenche Fylken (Digdir), Kjersti Stenerud Steien (Digdir), Harald Groven (HK-dir), Martin Zeiffert (Novari), Natalia Kovalenko-Gundersen (Novari), Erik Hagen (Digdir), Cat (Cahtrine) Holten (Digdir), Ellen Marite Fagerli (HK-dir) og Anders Alstad (Novari).
