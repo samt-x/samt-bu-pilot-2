@@ -9,4 +9,6 @@ lastmod: 2026-05-06T14:34:12+02:00
 last_editor: Erik Hagen
 
 ---
-Arbeidet med denne  piloten er under oppstart. Mer informasjon kommer snart.
+Pilot 2 ser på hvordan unge kan få bedre støtte når de skal velge utdanningsløp, og hvilken informasjon som må være tilgjengelig for at valget skal bli opplyst.
+
+Arbeidet med denne piloten er under oppstart. Mer informasjon kommer snart.
