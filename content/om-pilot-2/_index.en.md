@@ -8,4 +8,4 @@ last_editor: Erik Hagen
 
 ---
 
-*English translation TBD.*
+Pilot 2: Choice of educational pathway covers work and topics around [case 21 – Choice of educational pathway](https://docs.samt-bu.no/en/behov/use-cases/21-valg-utdanningsloep/).

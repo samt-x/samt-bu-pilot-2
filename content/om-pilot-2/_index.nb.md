@@ -7,4 +7,4 @@ lastmod: 2026-05-08T15:12:16+02:00
 last_editor: Erik Hagen
 
 ---
-Pilot 2: Valg av utdanningsløp tar for seg arbeid og temaer rundt case 21: <https://docs.samt-bu.no/behov/use-cases/21-valg-utdanningsloep/>
+Pilot 2: Valg av utdanningsløp tar for seg arbeid og temaer rundt [case 21 – Valg av utdanningsløp](https://docs.samt-bu.no/behov/use-cases/21-valg-utdanningsloep/).
