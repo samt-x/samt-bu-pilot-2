@@ -6,7 +6,7 @@ linkTitle: "Pilot 2 - Choice of educational pathway"
 weight: 20
 status: "Early draft"
 draft: false
-lastmod: 2026-07-31T10:00:00+02:00
+lastmod: 2026-07-31T09:59:46+02:00
 last_editor: Erik Hagen
 
 ---

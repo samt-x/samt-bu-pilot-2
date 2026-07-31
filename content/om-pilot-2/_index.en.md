@@ -3,7 +3,7 @@
 id: "a3518d17-681e-42c3-952f-c4fae95511f2"
 title: "About pilot 2"
 weight: 20
-lastmod: 2026-07-31T10:00:00+02:00
+lastmod: 2026-07-31T09:59:46+02:00
 last_editor: Erik Hagen
 
 ---
