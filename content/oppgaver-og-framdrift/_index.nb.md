@@ -3,6 +3,9 @@ id: 0d38c265-c381-47f2-8ff8-4b1d167ecaa4
 title: "Oppgaver og framdrift"
 linkTitle: "Oppgaver og framdrift"
 weight: 90
+lastmod: 2026-11-02T00:12:30+01:00
+last_editor: Erik Hagen
+
 ---
 
 Oppgavene i pilot 2 ligger som issues i [samt-bu-pilot-2](https://github.com/samt-x/samt-bu-pilot-2/issues) og på brettet [SAMT-BU Pilot 2 – Valg av utdanningsløp](https://github.com/orgs/samt-x/projects/2) (Project 2). Denne siden viser hvor arbeidet står.
