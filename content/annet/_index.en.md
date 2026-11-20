@@ -4,7 +4,7 @@ title: Other
 weight: 30
 status: Approved
 # Valid values: New | Early draft | In progress | For QA | Approved | Cancelled
-lastmod: 2026-11-02T21:37:47+01:00
+lastmod: 2026-11-20T02:42:15+01:00
 last_editor: Jens Laurits Nielsen
 
 ---
