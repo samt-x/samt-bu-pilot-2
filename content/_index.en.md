@@ -11,4 +11,4 @@ last_editor: Erik Hagen
 
 ---
 
-Pilot 2 looks at how young people can be better supported when choosing an educational pathway, and what information needs to be available for that choice to be well informed.
+Pilot 2 looks at how young people can be better supported when choosing an educational pathway, and what information needs to be available for that choice to be well informed. The pilot has mapped vilbli.no and utdanning.no and produced a draft proposal for the way forward.

@@ -9,4 +9,4 @@ lastmod: 2026-07-30T09:50:56+02:00
 last_editor: Erik Hagen
 
 ---
-Pilot 2 ser på hvordan unge kan få bedre støtte når de skal velge utdanningsløp, og hvilken informasjon som må være tilgjengelig for at valget skal bli opplyst.
+Pilot 2 ser på hvordan unge kan få bedre støtte når de skal velge utdanningsløp, og hvilken informasjon som må være tilgjengelig for at valget skal bli opplyst. Piloten har kartlagt vilbli.no og utdanning.no og laget et utkast til forslag om veien videre.
