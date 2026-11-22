@@ -1,4 +1,5 @@
 ---
+id: e43ca1c8-d579-4f0a-b1e9-832fdff7d21a
 title: "Current situation"
 linkTitle: "Current situation"
 weight: 30

@@ -1,4 +1,5 @@
 ---
+id: 8b4b42fe-c40a-41be-928d-0843bceda88b
 title: "Architecture and data sharing"
 linkTitle: "Architecture and data sharing"
 weight: 60

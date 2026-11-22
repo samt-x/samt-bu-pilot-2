@@ -1,4 +1,5 @@
 ---
+id: a1c2f259-4793-4947-8001-7df03033b3de
 title: "Alternative løsninger"
 linkTitle: "Alternative løsninger"
 weight: 10

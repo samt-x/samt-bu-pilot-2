@@ -1,4 +1,5 @@
 ---
+id: 958a133d-6525-4cb5-a6d1-92462db0fe26
 title: "Målbilde"
 linkTitle: "Målbilde"
 weight: 40

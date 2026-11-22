@@ -1,4 +1,5 @@
 ---
+id: 4d2134ca-d6da-47c0-97bc-5fff444fcdfb
 title: "Choice of solution"
 linkTitle: "Choice of solution"
 weight: 50

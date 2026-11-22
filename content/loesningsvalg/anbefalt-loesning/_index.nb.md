@@ -1,4 +1,5 @@
 ---
+id: bcbbb163-2f02-4195-8d80-4c8e61374d74
 title: "Anbefalt løsning"
 linkTitle: "Anbefalt løsning"
 weight: 30
