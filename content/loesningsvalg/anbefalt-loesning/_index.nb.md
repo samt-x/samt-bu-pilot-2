@@ -3,6 +3,8 @@ id: bcbbb163-2f02-4195-8d80-4c8e61374d74
 title: "Anbefalt løsning"
 linkTitle: "Anbefalt løsning"
 weight: 30
+lastmod: 2026-11-22T20:30:40+01:00
+last_editor: Erik Hagen
 
 ---
 

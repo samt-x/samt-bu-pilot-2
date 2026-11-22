@@ -3,7 +3,7 @@
 id: a3518d17-681e-42c3-952f-c4fae95511f2
 title: Om pilot 2
 weight: 10
-lastmod: 2026-11-20T02:52:25+01:00
+lastmod: 2026-11-22T20:30:40+01:00
 last_editor: Erik Hagen
 
 ---

@@ -3,6 +3,8 @@ id: f9d7308a-3a0f-4d70-8a30-040f4c8f4099
 title: "Results and the way forward"
 linkTitle: "Results and the way forward"
 weight: 90
+lastmod: 2026-11-22T20:30:40+01:00
+last_editor: Erik Hagen
 
 ---
 

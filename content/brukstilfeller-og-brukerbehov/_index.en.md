@@ -3,6 +3,8 @@ id: cb91f318-d02d-4e3e-8620-6e9b216b8767
 title: "Use cases and user needs"
 linkTitle: "Use cases and user needs"
 weight: 20
+lastmod: 2026-11-22T20:30:40+01:00
+last_editor: Erik Hagen
 
 ---
 Who needs information about education and career choices, what they need, and what the fragmented offering means for them.

@@ -3,6 +3,8 @@ id: e43ca1c8-d579-4f0a-b1e9-832fdff7d21a
 title: "Nåsituasjon"
 linkTitle: "Nåsituasjon"
 weight: 30
+lastmod: 2026-11-22T20:30:40+01:00
+last_editor: Erik Hagen
 
 ---
 Hvordan vilbli.no og utdanning.no er eid, drevet og forsynt med data i dag, hvordan de brukes, og hvem som er berørt. Beskrivelsen av vilbli.no bygger på Novaris nåsituasjonsbeskrivelse per juli 2026, og besøkstallene på en sammenstilling fra HK-dir i september 2026.

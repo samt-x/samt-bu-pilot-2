@@ -5,7 +5,7 @@ linkTitle: "Tasks and progress"
 weight: 15
 aliases:
  - /pilotering/pilot-2/annet/
-lastmod: 2026-11-20T01:51:12+01:00
+lastmod: 2026-11-22T20:30:40+01:00
 last_editor: Erik Hagen
 
 ---

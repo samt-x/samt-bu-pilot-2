@@ -3,6 +3,8 @@ id: c438e069-43ad-4ec0-aa76-8627ab811b08
 title: "Juridiske forhold"
 linkTitle: "Juridiske forhold"
 weight: 60
+lastmod: 2026-11-22T20:30:40+01:00
+last_editor: Erik Hagen
 
 ---
 

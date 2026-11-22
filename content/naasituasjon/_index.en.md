@@ -3,6 +3,8 @@ id: e43ca1c8-d579-4f0a-b1e9-832fdff7d21a
 title: "Current situation"
 linkTitle: "Current situation"
 weight: 30
+lastmod: 2026-11-22T20:30:40+01:00
+last_editor: Erik Hagen
 
 ---
 How vilbli.no and utdanning.no are owned, run and supplied with data today, how they are used, and who is affected. The description of vilbli.no is based on Novari's description of the current situation as of July 2026, and the visitor figures on a compilation from HK-dir in September 2026.

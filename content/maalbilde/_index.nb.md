@@ -3,6 +3,8 @@ id: 958a133d-6525-4cb5-a6d1-92462db0fe26
 title: "Målbilde"
 linkTitle: "Målbilde"
 weight: 40
+lastmod: 2026-11-22T20:30:40+01:00
+last_editor: Erik Hagen
 
 ---
 
